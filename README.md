@@ -17,18 +17,18 @@ samples, guidance on mobile development, and a full API reference.
 
 
 Pagina Principal
-![peliculas](https://user-images.githubusercontent.com/56771357/218787993-dfc4e635-b213-4509-9979-ff2fb6fd12bb.png)
+![image](https://user-images.githubusercontent.com/56771357/218789109-53d2bbb2-9bf0-4d89-92d5-eea3b56b4350.png)
 
 
 
 Pelicula Seleccionada
 
-![peliculas_2](https://user-images.githubusercontent.com/56771357/218788245-b8bf2a45-e98e-4ff8-8661-71089e0db0f0.png)
+![image](https://user-images.githubusercontent.com/56771357/218789239-bbeda78b-bc3a-4c31-80e7-afe3ef230761.png)
 
 
 Informacion de actores
-![pelicula_3](https://user-images.githubusercontent.com/56771357/218788537-dda230b4-2c71-4cc9-88fa-55fcf73d463d.png)
+![image](https://user-images.githubusercontent.com/56771357/218789406-7b1e96c1-907c-47a5-a028-e9cd3d326bfe.png)
 
 
 Busqueda de Peliculas
-![peliculas_4](https://user-images.githubusercontent.com/56771357/218788721-4a0065c0-df0c-45b3-a2ba-dcb6f2bd2135.png)
+![image](https://user-images.githubusercontent.com/56771357/218789495-f78e87a8-6048-46bc-8b4a-2d1df5aa66fc.png)
